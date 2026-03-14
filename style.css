@@ -43,7 +43,11 @@ body {
 .button {
     background-color: #DB8F51;
     border-radius: 5px;
+    color: #000;
+    display: block;
     font-size: 20px;
     font-weight: bold;
     padding: 20px;
+    text-align: center;
+    text-decoration: none;
 }
